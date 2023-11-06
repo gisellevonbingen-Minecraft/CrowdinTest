@@ -1,3 +1,3 @@
 files:
-  - source: /src/*
+  - source: /src/**/en_us.json
     translation: /dst/%two_letters_code%/%original_path%
