@@ -1,0 +1,3 @@
+files:
+  - source: /src/*.json
+    translation: /dst/%two_letters_code%/%original_path%
