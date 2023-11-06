@@ -1,3 +1,5 @@
 files:
   - source: /src/**/en_us.json
-    translation: /dst/%two_letters_code%/%original_path%
+    translation: /done/%original_path%/%locale_with_underscore%.json
+  - source: /src/Alex's Caves/**/*.txt
+    translation: /done/%original_path%/%locale_with_underscore%/%original_file_name%
